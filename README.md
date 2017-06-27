@@ -9,3 +9,5 @@
 #### Пишем [event manager](https://github.com/php-fig/fig-standards/blob/master/proposed/event-manager.md)
 - [Как создать пакет](https://www.youtube.com/watch?v=4RneKKl4CsQ)
 - [Рефакторинг и проецирование](https://www.youtube.com/watch?v=2AzW8001J3o)
+#### Прочее
+- [Mutable и Immutable в PHP](http://www.youtube.com/watch?v=WHJ8facVH5Q)
