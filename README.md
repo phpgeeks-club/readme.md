@@ -14,3 +14,6 @@
 - [Основы проектирование хранения данных](https://www.youtube.com/watch?v=REbsxmE5h4M)
 - [TDD Session: The Minesweeper Game](https://www.youtube.com/watch?v=EygqvQPn45Y)
 - [Как почти ничего не зная написать своё первое многопоточное приложение на Go](https://www.youtube.com/watch?v=01r6Z5-xJyg)
+- [PHP 7.2 о новой версии](https://www.youtube.com/watch?v=PabHxOBGd20)
+- [PHP в 2017 году, почему использовать mysql_query и все остальные mysql* функции плохо](https://www.youtube.com/watch?v=qnHnCD_H0C4)
+- [Практика работы с диаграммами на примере MYSQL](https://www.youtube.com/watch?v=WjD7lrErE9c)
